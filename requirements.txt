@@ -1,6 +1,6 @@
-streamlit
-pdfplumber
-pandas
-openpyxl
-numpy
-rapidfuzz
+streamlit==1.38.0
+pandas==2.2.3
+pdfplumber==0.11.4
+rapidfuzz==3.9.3
+openpyxl==3.1.5
+pillow==10.4.0
